@@ -1,0 +1,1 @@
+{"Name":{"Permanent address":"USA","current Address":"AU"},"Boolean":null,"Address":{"Permanent address":"USA","current Address":"AU"},"Address1":{"Permanent address1":"USA1","current Address1":{"AU1":["one","two"]}},"Symbol":'p',"Year":{"Month":{"Month":{"Month":[{"A":true},{"B":false}]}}},"Symbol":'o',"Yani":21}
